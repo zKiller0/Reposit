@@ -1,0 +1,21 @@
+O que JavaScript faz? 
+  Funcionam mais para Clientes
+
+Conceito de Client e Server
+  - Client = Precisa de dados de um servidor ( dipositivo )
+  - Server = Envia os dados para o Cliente 
+
+Website 
+  Do lado do Client ( é com posto por 3 tecnologias fundamentais )
+    - [ HTML ] Jornalista ( texto , conteúdo )
+    - [ CSS ] Desingner ( organiza os componentes e estética )
+    - [ JavaScript ] Programador ( configurações , segurança , interações )
+
+Quem usa?
+  Google
+  Youtube
+  Linkedin
+  Netflix
+  Facebook
+
+

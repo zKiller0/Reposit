@@ -1,0 +1,40 @@
+${ Repetições ( Laços ) }
+
+    função comerPizza() {
+        
+        comerFatia()
+        comerFatia()
+        comerFatia()
+        comerFatia()
+        comerFatia()
+        comerFatia()
+        comerFatia()
+        comerFatia()
+
+    }
+
+- Começa com condições, testa a condição e se
+    for 'true' ela ira retornar para a condição 
+    e se 'false' irá seguir o fluxo.
+
+    [ enquanto ] while ( condição ) {
+        // Bloco = True ( o fluxo se repete )
+    }
+
+    função comerFatia() {
+
+        while (temFatia()) {
+            comerFatia()
+        }
+    }
+
+    Do = ( faça ) 
+- Do while 
+    Executa primeiro o bloco pra depois verificar
+    se a condição é verdadeira
+        
+        do {
+
+            // Bloco 
+        } while ()
+    

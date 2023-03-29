@@ -1,0 +1,29 @@
+${ Condições ( Condicionais )}
+
+         |  Sequências
+         |   - var n = 3
+         |   - n += 2
+         |   - window.alert(n)
+
+ If ( condição ) {
+
+    // Bloco = true
+
+ } else {
+
+    // Bloco = false
+ }
+
+        Tipos de condição
+        1- ( condição simples ) // Quando não tem else é condição simples 
+            if {
+
+                true
+            } 
+         2- ( condição composta )
+         if {
+
+            true
+         } else {
+            
+         }

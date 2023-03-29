@@ -1,0 +1,28 @@
+Operadores ( 2 )
+    Relacionais 
+        < ( 1 < 2) = true 
+        > ( 2 > 1 ) = true
+        >= ( 2 >= 1) = true
+        <= ( 1 <= 2 ) = true
+        == ( 2 == 2 ) = true | ( 2 == '2' ) = true
+        != ( 1 != 2 ) = true
+        === ( 2 === '2' ) = false 
+
+    Lógicos 
+        ! ( negação) 
+            - !True = false
+            - !False = true
+        && ( conjução) 
+            - true && true = true
+            - true && false = false
+            - false && true = false
+            - false && false = false
+        || ( disjunção ) 
+            - true || true =  true
+            - true || false = true
+            - false || false = true
+            - false || false = false
+
+    Ternário 
+        - ?  : 
+        - teste ? true : false

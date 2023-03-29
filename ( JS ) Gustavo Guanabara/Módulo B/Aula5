@@ -1,0 +1,42 @@
+Váriaveis e Tipos Primitivos
+
+Comentários
+    - É importante para relembrar coisas futuramente
+
+Variáveis
+    var a1 = carro 1 | ( = ) Recebe 
+        a1 = carro 2
+        a1 = null ( nulo )
+
+    Nome de cada variável : Identificadores
+        - Podem começar com letra , $ ou _
+        - Não podem começar com números
+        - É possível usar acentos e símbolos
+        - Não podem conter espaços 
+        - Não podem ser palavras reservadas
+    
+    Dicas 
+        - Maiúsculas e Minúsculas fazem diferença
+        - Tente escolher nomes coerentes para as variáveis
+        - Evite se tornar um programador alfabeto
+
+    Valores
+        - Number = ( 1 , 18 , -12 , 0.5 ... ) 
+            - Ininity
+            - NaN
+
+        - String = ( "Google" , 'JS' , `Curso` ) -> Conjunto de caracteres [ telefone , cpf , números com pontos ]
+
+        - Boolean ( true , false )
+
+        - Null
+
+        - Undefined
+
+        - Object 
+            - Array
+        
+        - Function 
+
+        
+

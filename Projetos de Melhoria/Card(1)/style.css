@@ -1,0 +1,57 @@
+/* Fonte */
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Oxanium:wght@200;300;400;500;600;700;800&display=swap');
+
+  body {
+    font-family: "Montserrat" , sans-serif;
+  }
+/* Centralizando o card */ 
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+/* Card */
+.card {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #c2c0c4;
+    width: 400px;
+}
+
+.mediaCard {
+    background: url(https://th.bing.com/th/id/R.410a7981750703dd9f264dc16544c746?rik=Ect4demyvhljqA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-rz6DMWYSak4%2fUarjiU4eNcI%2fAAAAAAAAxLc%2fqb16E_-EJVM%2fs1600%2fHSDxD01.jpg&ehk=yfGOS2bqyifHVGUEEo4b45kFz4i4Kw0FB5%2fXeo%2fDKl8%3d&risl=&pid=ImgRaw&r=0) center/cover;
+    height: 300px;
+    width: 100%;
+}
+
+.title {
+    color: rgb(96, 4, 96);
+}
+
+.secondText {
+    color: rgb(117, 4, 117);
+}
+
+.bottomText {
+    color: rgb(85, 6, 85);
+}
+
+.topCard {
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.bottomCard {
+    padding: 20px;
+}
+
+/* Botões */
+.actions {
+    background: none;
+    border: none;
+    color: purple;
+}

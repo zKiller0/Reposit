@@ -1,0 +1,16 @@
+Selecionando 
+    - por Marca 
+        getElementsByTagName()
+
+    - por ID
+        getElementsById()
+
+    - por Nome
+        getElementsByName()
+
+    - por Classe
+        getElementsByClassName()
+
+    - por Seletor
+        querySelector()
+        querySelectorAll()

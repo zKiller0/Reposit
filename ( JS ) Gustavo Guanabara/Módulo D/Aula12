@@ -1,0 +1,32 @@
+$ { Condições ( parte 2 ) }
+
+    Condições Aninhadas 
+        - if ( cond 1 ) {
+
+           // Bloco 1 =  true
+           
+        }
+
+        else {
+            
+            if ( cond2 ) {
+
+            // Bloco 2 = true
+           } 
+           else {
+
+            // Bloco 3 = flase 
+           }
+        }
+
+    Condição Múltipla
+        - switch ( expressão ) {
+            - case valor 1:  // Bloco 1
+                            break
+            - case valor 2:  // Bloco 2
+                            break
+            - case valor 3: // Bloco 3
+                            break
+            - default : // Bloco 4
+        }
+          

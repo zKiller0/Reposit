@@ -1,0 +1,22 @@
+${ Repetições ( parte 2 ) }
+
+ - Estrutura de repetição com 
+    váriavel de controle 
+
+    for ( inicio ;teste ;incremento ) {
+
+        // Bloco
+    }
+
+    - varavel i = 1
+     
+    ( enquanto ) ( i <= 10 ) {
+        // Bloco 
+        i++ 
+    }
+____________________________________
+
+    - for ( var i =1; c <= 10; i++ )
+
+    ~ ambas as linhas tem a mesma funcionalidade
+    

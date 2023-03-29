@@ -1,0 +1,33 @@
+${ Váriaveis Compostas }
+    - Devem ser capazes de armazenar
+    vários valores em uma mesma estrutura,
+    não perde os valores anteriores para 
+    guardar os novos.
+
+- Array vetor ( a )
+
+vaga a = [ car1 , car2 , car3 ]
+          [0]    [1]    [2]
+
+let num = [ 5 , 6  , 8  ]
+
+num [3] = 6 
+    - adiciona um valor na
+        posição escolhida
+num.push(7) 
+    - adiciona um valor a uma 
+        posição aleatoria
+num.length
+    - atributo que diz o comprimento
+        do vetor
+num.sort()
+    - coloca em ordem crescente
+
+Buscando Valores dentro de um vetor
+
+    - num.indexOf(7) = [3]
+      => tem
+    - num.indexOf(3) = -1
+      => não tem 
+
+      Vetor = [ 1 , 2 , 4 , 7 ]
